@@ -1,0 +1,3 @@
+Adds a jQuery based date picker to form elements that require a date input.
+Converted for Jojo from Kelvin Luck's code
+http://www.kelvinluck.com/
